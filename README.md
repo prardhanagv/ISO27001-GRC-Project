@@ -1,19 +1,63 @@
-# ISO27001-GRC-Project
-Gap Analysis &amp; Risk Assessment Automation using Python &amp; ISO 27001
-# ISO 27001 GRC Project
+# ISO 27001 GRC Projects – Gap Analysis & Vendor Risk Management
 
-**Gap Analysis & Risk Assessment Automation**
+## Overview
+This repository contains two practical Governance, Risk, and Compliance (GRC) projects aligned with ISO 27001 concepts. The projects demonstrate hands-on understanding of information security governance, risk assessment, and third-party risk management.
 
-This project demonstrates understanding of ISO 27001 and GRC (Governance, Risk, Compliance) concepts.
+---
 
-- Performed a **Gap Analysis** to identify missing or partially implemented ISO 27001 controls.
-- Created a **Risk Register** documenting assets, threats, vulnerabilities, and controls.
-- Automated **Risk Level calculations** using Python in Google Colab.
-- Generated a **summary of High, Medium, and Low risks** to prioritize mitigation efforts.
+## Project 1: ISO 27001 Gap Analysis
 
-**Files included:**
-- `Gap_Analysis.pdf` → ISO 27001 control gaps
-- `Risk_Register.xlsx` → Cleaned Risk Register with Risk Levels
-- `Risk_Assessment_Automation.ipynb` → Python notebook for automation
+### Objective
+To assess an organization’s current information security posture against ISO 27001 requirements and identify compliance gaps.
 
-**Skills demonstrated:** ISO 27001 basics, Risk assessment, Python automation, Data cleaning, Reporting
+### Scope
+- Organizational information security controls
+- Assets, access control, operations security, and policy management
+- Selected ISO 27001 Annex A controls
+
+### Key Activities
+- Defined scope and assets
+- Performed gap analysis against ISO 27001 Annex A controls
+- Identified missing or partially implemented controls
+- Documented risks and improvement recommendations
+
+### Outcome
+The gap analysis highlighted areas of non-compliance and provided actionable recommendations to improve alignment with ISO 27001 requirements.
+
+---
+
+## Project 2: Vendor Risk Management
+
+### Objective
+To assess and manage third-party vendor risks using a structured risk-based approach aligned with ISO 27001.
+
+### Project Overview
+This project focuses on identifying critical vendors, evaluating their risk exposure, and recommending appropriate risk treatment actions.
+
+### Key Activities
+- Identified third-party vendors and services
+- Assessed risk based on:
+  - Data access level
+  - Business criticality
+  - Past security incidents
+- Calculated risk scores and classified vendors as Low, Medium, or High risk
+- Defined recommended actions for risk mitigation and monitoring
+
+### Outcome
+High-risk vendors were identified, and appropriate mitigation and monitoring strategies were recommended to reduce organizational risk.
+
+---
+
+## Tools & Concepts Used
+- ISO 27001 GRC concepts
+- Risk assessment and risk scoring methodology
+- Vendor Risk Management
+- Spreadsheet-based risk registers
+- Governance and compliance documentation
+
+---
+
+## Key Learning Outcomes
+- Practical understanding of ISO 27001 gap analysis
+- Hands-on experience with risk identification and treatment
+- Exposure to real-world GRC and third-party risk processes
